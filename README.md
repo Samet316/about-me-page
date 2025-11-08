@@ -1,6 +1,6 @@
-<h1 style="color:blue;">
+<h2 style="color:red;">
   About Me
-</h1>
+</h2>
 
 ## 🧠 Technologies Used
 - HTML
