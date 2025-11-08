@@ -1,3 +1,6 @@
-<h1>
-  #About Me#
-</h1>
+# (About Me)
+
+## 🧠 Technologies Used
+- HTML
+- CSS
+- Tailwind CSS
